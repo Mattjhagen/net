@@ -1,0 +1,6 @@
+{
+  "name": "DataPlot & RNG Studio",
+  "description": "Interactive historical data plotting with zoom and PDF/PNG export, customizable random number generator, and an AI-assisted natural language interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
